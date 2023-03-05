@@ -49,7 +49,7 @@ class Person {
     this.deleteChore();
     break;
     case '4' :
-    this.displayChore();
+    this.displayChores();
     break;
     default:
     selection = 0;
